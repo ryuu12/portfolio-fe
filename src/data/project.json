@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Dreamy",
+        "desc":"A journalistic project written by voluntary contributors",
+        "git":"https://github.com/ryuu12/dreamy-fe",
+        "link":"https://dreamynetwork.vercel.app/"
+    },
+    {
+        "name":"Solusia",
+        "desc":"An organization registration app made by ReactJs",
+        "git":"https://github.com/ryuu12/solusvictus",
+        "link":"https://solusvictus.vercel.app/"
+    },
+    {
+        "name":"Portfolio",
+        "desc":"My personal site containing all of my works.",
+        "git":"https://github.com/ryuu12/ryuu12.github.io",
+        "link":"https://www.ryuu12.com/"
+    }
+]

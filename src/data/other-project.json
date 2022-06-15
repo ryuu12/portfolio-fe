@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Kimiko",
+        "desc":"A discord bot made using Discord.py . Have the ability to manage server's member.",
+        "git":"https://github.com/ryuu12/kimiko-discordpy-bot"
+    },
+    {
+        "name":"eID",
+        "desc":"An HTML template for electronic-ID service website.",
+        "git":"https://github.com/ryuu12/eid-template"
+    },
+    {
+        "name":"Heroku Blog",
+        "desc":"A personal blog made using Django.py and hosted on Heroku.",
+        "git":"https://github.com/ryuu12/personal-site-heroku"
+    }
+]

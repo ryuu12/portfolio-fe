@@ -1,0 +1,110 @@
+.project {
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 20px;
+}
+
+.project-post {
+    font-size: 16px;
+    padding: 10px;
+    width: 235px;
+    height: 235px;
+    object-fit: cover;
+    margin: 5px 6px;
+    background-color: #0f0f0f;
+    color: white;
+    border-radius: 5px;
+}
+
+.project-post:hover {
+    background-color: #16161d;
+    transition: 0.2s;
+}
+
+.project-post .content {
+    padding: 10px;
+}
+.post-icon {
+    margin: 0 5px;
+}
+
+.btn-card, .post-icon {
+    padding: 5px 15px;
+    border: solid 1px white;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.post-icon {
+    background-color: white;
+    color: #0f0f0f;
+}
+
+.post-icon:hover{
+    border-color: white;
+    color: white;
+    background-color: inherit;
+    transition: 0.2s;
+}
+
+.other-git {
+    font-size: 18px;
+}
+
+.btn-card:hover {
+    border-color: inherit;
+    color: #16161d;
+    background-color: white;
+    transition: 0.2s;
+}
+
+.bi-box-arrow-up-right {
+    display: none;
+}
+
+.project h1 {
+    margin: 0;
+}
+
+.project-post h3 {
+    margin: 0;
+}
+
+.project-post p {
+    height: 100px;
+}
+
+.project .row {
+    justify-content: center;
+}
+
+@media screen and (max-width: 576px) {
+    .project-post {
+        display: block;
+        font-size: 20px;
+        padding: 8px;
+        width: 90%;
+        height: 270px;
+        margin: 5px auto;
+        border-radius: 5px;
+    }
+
+    .btn-card span {
+        display: none;
+    }
+
+    .bi-box-arrow-up-right {
+        display: contents;
+    }
+
+    .project-post p {
+        height: 100px;
+    }
+
+    .btn-card, .post-icon {
+        font-size: 26px;
+    }
+
+    .other-git {
+        font-size: 26px;
+    }
+}
