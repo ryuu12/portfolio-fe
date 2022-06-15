@@ -6,7 +6,7 @@ function Header(){
     return(
         <div className="header container">
             <div className="topbar">
-                <a href="#"><i class="bi bi-twitter"></i></a> <a href="#"><i class="bi bi-github"></i></a> 
+                <a href="https://twitter.com/rayhanrusyd"><i class="bi bi-twitter"></i></a> <a href="https://github.com/ryuu12"><i class="bi bi-github"></i></a> 
             </div>
             <div className="row">
                 <div className="col-25">
@@ -21,7 +21,7 @@ function Header(){
                         <img className="fr-logo desc-exp" alt="Django" src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" />
                         <img className="fr-logo desc-exp" alt="Bootstrap" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" />
                         <div className="sosmed">
-                            <a href="#"><i class="bi bi-twitter"></i></a> <a href="#"><i class="bi bi-github"></i></a>
+                            <a href="https://twitter.com/rayhanrusyd"><i class="bi bi-twitter"></i></a> <a href="https://github.com/ryuu12"><i class="bi bi-github"></i></a>
                         </div>
                     </div>
                 </div>
