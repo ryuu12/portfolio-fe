@@ -1,12 +1,12 @@
 import "./Header.css"
-import profil from "../images/pp.jpg"
+import profil from "../images/pp2.jpg"
 import {Link} from "react-router-dom"
 
 function Header(){
     return(
         <div className="header container">
             <div className="topbar">
-                <a href="https://twitter.com/rayhanrusyd"><i class="bi bi-twitter"></i></a> <a href="https://github.com/ryuu12"><i class="bi bi-github"></i></a> 
+                <a href="https://twitter.com/rayhanrusyd"><i class="bi bi-twitter"></i></a> <a href="https://github.com/ryuu12"><i class="bi bi-github"></i></a> <a href="mailto:rusydrayhan@gmail.com"><i class="bi bi-envelope-fill"></i></a>
             </div>
             <div className="row">
                 <div className="col-25">
@@ -21,7 +21,7 @@ function Header(){
                         <img className="fr-logo desc-exp" alt="Django" src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" />
                         <img className="fr-logo desc-exp" alt="Bootstrap" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" />
                         <div className="sosmed">
-                            <a href="https://twitter.com/rayhanrusyd"><i class="bi bi-twitter"></i></a> <a href="https://github.com/ryuu12"><i class="bi bi-github"></i></a>
+                            <a href="https://twitter.com/rayhanrusyd"><i class="bi bi-twitter"></i></a> <a href="https://github.com/ryuu12"><i class="bi bi-github"></i></a> <a href="mailto:rusydrayhan@gmail.com"><i class="bi bi-envelope-fill"></i></a>
                         </div>
                     </div>
                 </div>
