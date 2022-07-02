@@ -27,7 +27,7 @@ function Header(){
                 </div>
             </div>
             <div className="divider">
-                <Link className="selector" to="/project"><i class="bi bi-grid-3x3-gap-fill"></i> <span>PROJECT</span></Link> <Link className="selector" to="/about"><i class="bi bi-person-circle"></i> <span>ABOUT</span></Link>
+                <Link className="selector" to="/project"><i class="bi bi-grid-3x3-gap-fill"></i> <span>PROJECT</span></Link> <Link className="selector" to="/about"><i class="bi bi-person-circle"></i> <span>ABOUT</span></Link> <a className="selector" href="https://drive.google.com/file/d/1QjiQ-7-6eLdf4p4cfWnxTfKF-u0kiNSP/view"><i class="bi bi-file-post"></i> <span>RESUME</span></a>
             </div>
         </div>
     )
