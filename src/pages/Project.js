@@ -3,6 +3,7 @@ import post from "../data/project.json"
 import otherPost from "../data/other-project.json"
 
 function Project(){
+    document.title="Rayhan Rusyd | Project"
     return(
         <div className="project container">
             <div className="row">

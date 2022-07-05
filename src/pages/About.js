@@ -1,6 +1,7 @@
 import "./About.css"
 
 function About() {
+    document.title="Rayhan Rusyd | About Me"
     return(
         <div className="about container">
             <div className="row">
