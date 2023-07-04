@@ -1,5 +1,5 @@
 import "./Header.css"
-import profil from "../images/pp2.jpg"
+import profil from "../images/pp.jpg"
 import {Link} from "react-router-dom"
 
 function Header(){
